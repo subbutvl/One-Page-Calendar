@@ -2,7 +2,7 @@
 
 This is a code bundle for One Page Calendar. The original project is available at https://www.figma.com/design/FlakryJ9eazc7IKB9qBD4z/One-Page-Calendar.
 
-./screenshot.png
+![One Page Calendar Screenshot](./screenshot.png)
 
 ## Running the code
 
